@@ -17,9 +17,9 @@ http://0.0.0.0:8000/sample_colour
 #### To run without docker
 Install [Poetry](https://python-poetry.org/) for Python package and environment management and then run with:
 ```console
-poetry install
-poetry shell
-python3 main.py
+$ poetry install
+$ poetry shell
+$ python3 main.py
 ```
 
 API documentation: http://localhost:8000/docs
